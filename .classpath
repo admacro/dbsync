@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/res/postgresql-8.3-604.jdbc3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/commons-dbutils-1.1/commons-dbutils-1.1.jar" sourcepath="D:/commons-dbutils-1.1-src.zip"/>
+	<classpathentry kind="lib" path="E:/res/sqlserver2005jdbcDriver/sqljdbc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
