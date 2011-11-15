@@ -1,9 +1,0 @@
-This an application I wrote using Java when I was working for a small Japanese Internet
-company. It syncronizes db tables and data (excludes index, jobs and other
-staff) with SQL Server 2005 and PostgreSQL 8.3. Actually, it's single direction,
-from SQL server to PostgreSQL.
-
-Check it out if you are interested.
-
-You can see I uploaded the eclipse classpath configuration file which I think
-might be helpful when you run into jar missing errors.
